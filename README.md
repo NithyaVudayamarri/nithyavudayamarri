@@ -1,8 +1,8 @@
 # nithyavudayamarri
 
 ## Repository links
-* webpage
-* source
+- [webpage](https://nithyavudayamarri.github.io/nithyavudayamarri/)
+* [source](https://github.com/NithyaVudayamarri/nithyavudayamarri)
 
 
 ## About
@@ -22,5 +22,6 @@ This repo will give me an idea and experience how to use github and markdown to 
 * Edurekha: This is one more online resource for learning web development. 
 
 
-## contributers
-* Hello! This is Nithya Vudayamarri,pursuing Masters in NWMSU in Applied Computer Science.  
+## contributors
+* Hello! This is Nithya Vudayamarri,pursuing Masters in NWMSU in Applied Computer Science. 
+![3848765-wallpaper-images-download](https://user-images.githubusercontent.com/46701355/51775361-1b452400-20bb-11e9-87e5-ece3d05c578b.jpg)
